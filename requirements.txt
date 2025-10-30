@@ -27,3 +27,6 @@ seaborn>=0.11.0
 # Additional packages for plant disease detection
 scipy>=1.7.0
 imutils>=0.5.4
+
+# Deep learning
+tensorflow>=2.15.0
