@@ -24,9 +24,21 @@ Desarrollar un sistema de IA para diagnóstico temprano de enfermedades en hojas
 - Validar resultados con métodos no supervisados (clustering y dimensional reductional)
 - Comparar rendimiento entre diferentes enfoques de IA
 
+#  Recursos
+
 ##  Dataset
 **PlantVillage Dataset**
+
 🔗 [Dataset en Kaggle](https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset)
+
+## Video
+🎥 [Video Explicativo]()
+
+## Diapositivas
+🎨 [Presentación en Canva](https://www.canva.com/design/DAG4_b4HqiY/NfESdU-eL-JHQCD_E9MIXw/edit?utm_content=DAG4_b4HqiY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+## Repositorio Principal
+⚙️ [Link del codigo del modelo](IA_model.ipynb)
 
 ##  Tecnologías
 - Python 
