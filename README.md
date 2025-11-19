@@ -32,7 +32,7 @@ Desarrollar un sistema de IA para diagnóstico temprano de enfermedades en hojas
 🔗 [Dataset en Kaggle](https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset)
 
 ## Video
-🎥 [Video Explicativo]()
+🎥 [Video Explicativo](https://youtu.be/8_XOVWVBdnk)
 
 ## Diapositivas
 🎨 [Presentación en Canva](https://www.canva.com/design/DAG4_b4HqiY/NfESdU-eL-JHQCD_E9MIXw/edit?utm_content=DAG4_b4HqiY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
